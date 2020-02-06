@@ -1,0 +1,20 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-06 18:22 -03
+Nmap scan report for _gateway (192.168.0.1)
+Host is up (0.016s latency).
+Not shown: 96 closed ports
+PORT     STATE SERVICE
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+1900/tcp open  upnp
+
+Nmap scan report for 192.168.0.105
+Host is up (0.013s latency).
+All 100 scanned ports on 192.168.0.105 are closed
+
+Nmap scan report for elementary (192.168.0.107)
+Host is up (0.00014s latency).
+All 100 scanned ports on elementary (192.168.0.107) are closed
+
+Nmap done: 256 IP addresses (3 hosts up) scanned in 3.18 seconds

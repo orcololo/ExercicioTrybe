@@ -1,0 +1,3 @@
+tcp        0      0 localhost:domain        0.0.0.0:*               OUÇA      
+tcp        0      0 localhost:ipp           0.0.0.0:*               OUÇA      
+tcp6       0      0 ip6-localhost:ipp       [::]:*                  OUÇA      

@@ -1,0 +1,18 @@
+{
+  "args": {
+    "firstname": "Rhian"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c7f40-2ae5e900b96566b8e0f026c0"
+  }, 
+  "json": null, 
+  "method": "GET", 
+  "origin": "177.131.19.131", 
+  "url": "https://httpbin.org/anything?firstname=Rhian"
+}

@@ -1,0 +1,20 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "lastname": "Castro"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "15", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c804f-5cd6d08849ada634a1915120"
+  }, 
+  "json": null, 
+  "method": "POST", 
+  "origin": "177.131.19.188", 
+  "url": "https://httpbin.org/anything"
+}
