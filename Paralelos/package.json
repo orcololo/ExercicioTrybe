@@ -1,0 +1,16 @@
+{
+  "name": "TesteBlog",
+  "version": "0.0.1",
+  "description": "Blog de teste usando tecnologias que estou estudando.",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "main": "index.js",
+  "repository": "github.com/orcololo/TesteBlog",
+  "author": "Rhian Castro",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
